@@ -1,4 +1,4 @@
-import types from '../constants/index';
+import types from '../constants';
 
 let todoId = 0;
 
@@ -16,3 +16,5 @@ const actions = {
     };
   },
 };
+
+export default actions;
