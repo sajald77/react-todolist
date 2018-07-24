@@ -12,6 +12,7 @@ module.exports = {
       "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
       "import/no-extraneous-dependencies": [2, { devDependencies: true }],
       "import/no-named-as-default": 0,
+      "linebreak-style": ["error", "windows"],
       "arrow-parens": ["error", "as-needed"],
       "function-paren-newline": "off",
       "prettier/prettier":[ "error", {
